@@ -1,14 +1,15 @@
-# simcompanies<br>  
+### Simcompanies' computer version auxiliary tool, capable of automatic production, retail, upgrade, and ore brushing
+## simcompanies的电脑版辅助工具,可自动生产,零售,升级,刷矿  
 
 ![image](https://github.com/byyyf/simcompanies/blob/main/images/1.jpg?raw=true)
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/byyyf/simcompanies)](https://github.com/byyyf/simcompanies/commits/master)
 [![GitHub Releases](https://img.shields.io/github/downloads/byyyf/simcompanies/latest/total?logo=github)](https://github.com/byyyf/simcompanies/releases)
 
-## simcompanies的电脑版辅助工具,可自动生产,零售,升级,刷矿
+
 **需要windows10 .net8 64位运行环境**  
    
-刷矿进目前在测试中
+刷矿井功能目前在测试中
 
 
 2025.6.9<br>
