@@ -3,8 +3,8 @@
 
 ![image](https://github.com/byyyf/simcompanies/blob/main/images/1.jpg?raw=true)
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/byyyf/simcompanies)](https://github.com/byyyf/simcompanies/commits/master)
-[![GitHub Releases](https://img.shields.io/github/downloads/byyyf/simcompanies/latest/total?logo=github)](https://github.com/byyyf/simcompanies/releases)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/byyyf/simcompanies)](https://github.com/byyyf/simcompanies/commits/master)  
+项目已发布,点此进入下载[![GitHub Releases](https://img.shields.io/github/downloads/byyyf/simcompanies/latest/total?logo=github)](https://github.com/byyyf/simcompanies/releases)
 
 
 **需要windows10 .net8 64位运行环境**  
